@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@types/node": "^22.7.9",
+    "@types/sequelize": "^4.28.20",
+    "dotenv": "^16.4.5",
+    "sequelize": "^6.37.4",
+    "typescript": "^5.6.3"
+  },
+  "name": "ts-buyerflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
